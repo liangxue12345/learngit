@@ -1,5 +1,1 @@
-hello
-nihao
-ok 
-hi
-
+hello and hi is not the same.
