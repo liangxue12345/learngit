@@ -1,4 +1,0 @@
-fast and accurate short read alignment 
-Burrows-Wheeler transform
-it's not easy to learn.
-Creating a new branch is quick and simple.
